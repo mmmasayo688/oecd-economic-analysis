@@ -36,3 +36,6 @@ Medallion Architecture (Bronze / Silver / Gold)
 ## Key Finding
 No strong overall correlation was found between unemployment rate and GDP growth rate. 
 However, Canada showed the strongest negative correlation among all countries.
+
+## Visualization
+OECD_Report.png
