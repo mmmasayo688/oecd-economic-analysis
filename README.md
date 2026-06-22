@@ -40,10 +40,10 @@ by country, animated by year (2000-2024)*
 ![OECD Analysis Demo](demo.gif)
 
 ## Visualization
-![OECD Report](OECD_Report.png)
+<img src="OECD_Report.png" width="600">
 
 ## Data Model
-![ER Diagram](er_diagram.png)
+<img src="er_diagram.png" width="600">
 
 ## Key Finding
 No strong overall correlation was found between unemployment rate 
