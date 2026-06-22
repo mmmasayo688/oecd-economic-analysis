@@ -39,6 +39,12 @@ by country, animated by year (2000-2024)*
 
 ![OECD Analysis Demo](demo.gif)
 
+## Visualization
+![OECD Report](OECD_Report.png)
+
+## Data Model
+![ER Diagram](er_diagram.png)
+
 ## Key Finding
 No strong overall correlation was found between unemployment rate 
 and GDP growth rate. However, Canada showed the strongest negative 
@@ -47,5 +53,3 @@ correlation among all countries.
 > **Note:** Croatia (HRV) joined OECD in 2023, so GDP growth rate 
 data is limited and excluded from trend analysis.
 
-## Visualization
-![OECD Report](OECD_Report.png)
