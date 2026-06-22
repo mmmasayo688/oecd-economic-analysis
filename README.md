@@ -19,6 +19,7 @@ G7 (Japan, USA, Canada, UK, Germany, France, Italy) + Netherlands, Sweden, Denma
 
 ## Architecture
 Medallion Architecture (Bronze / Silver / Gold)
+
 <img src="architecture.png" width="400">
 
 ### Bronze
