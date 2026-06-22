@@ -33,6 +33,12 @@ Medallion Architecture (Bronze / Silver / Gold)
 - Delta Lake
 - Power BI
 
+## Demo
+*Scatter plot showing unemployment rate vs GDP growth rate 
+by country, animated by year (2000-2024)*
+
+![OECD Analysis Demo](demo.gif)
+
 ## Key Finding
 No strong overall correlation was found between unemployment rate and GDP growth rate. 
 However, Canada showed the strongest negative correlation among all countries.
