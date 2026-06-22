@@ -44,4 +44,4 @@ No strong overall correlation was found between unemployment rate and GDP growth
 However, Canada showed the strongest negative correlation among all countries.
 
 ## Visualization
-OECD_Report.png
+![OECD Report](OECD_Report.png)
