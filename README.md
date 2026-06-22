@@ -20,7 +20,7 @@ G7 (Japan, USA, Canada, UK, Germany, France, Italy) + Netherlands, Sweden, Denma
 ## Architecture
 Medallion Architecture (Bronze / Silver / Gold)
 
-<img src="architecture.png" width="300">
+<img src="assets/architecture.png" width="300">
 
 ### Bronze
 - Raw CSV files from OECD
@@ -51,13 +51,13 @@ Medallion Architecture (Bronze / Silver / Gold)
 ## Demo
 *Scatter plot showing unemployment rate vs GDP growth rate by country, animated by year (2000-2024)*
 
-![OECD Analysis Demo](demo.gif)
+![OECD Analysis Demo](assets/demo.gif)
 
 ## Visualization
-<img src="OECD_Report.png" width="600">
+<img src="assets/OECD_Report.png" width="600">
 
 ## Data Model
-<img src="er_diagram.png" width="600">
+<img src="assets/er_diagram.png" width="600">
 
 ## Business Insights
 - No strong overall correlation was found between unemployment rates and GDP growth rates across the analyzed countries.
