@@ -4,6 +4,11 @@
 Analysis of the correlation between unemployment rate and GDP growth rate 
 across 11 countries using Microsoft Fabric.
 
+## Objective
+To analyze the correlation between unemployment rate and GDP growth rate 
+across major economies, using Microsoft Fabric lakehouse and medallion 
+architecture to transform raw OECD data into actionable insights.
+
 ## Countries
 G7 (Japan, USA, Canada, UK, Germany, France, Italy) + Netherlands, Sweden, Denmark, Croatia
 
