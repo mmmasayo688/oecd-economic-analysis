@@ -1,6 +1,6 @@
-🇯🇵 日本語版はこちら → [README_ja.md](README_ja.md)
-
 # OECD Economic Analysis - Microsoft Fabric Portfolio
+
+🇯🇵 日本語版はこちら → [README_ja.md](README_ja.md)
 
 ## Overview
 A Microsoft Fabric Lakehouse project that analyzes the relationship between unemployment rates and GDP growth rates across 11 countries using a modern data engineering architecture.
