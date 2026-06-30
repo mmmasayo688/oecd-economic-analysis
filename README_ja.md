@@ -1,6 +1,6 @@
-🇬🇧 English version → [README.md](README.md)
-
 # OECD経済分析 - Microsoft Fabric ポートフォリオ
+
+🇬🇧 English version → [README.md](README.md)
 
 ## 概要
 
