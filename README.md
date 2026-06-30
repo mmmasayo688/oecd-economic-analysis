@@ -1,3 +1,5 @@
+🇯🇵 日本語版はこちら → [README_ja.md](README_ja.md)
+
 # OECD Economic Analysis - Microsoft Fabric Portfolio
 
 ## Overview
